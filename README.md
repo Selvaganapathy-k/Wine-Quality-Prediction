@@ -1,3 +1,3 @@
 RED WINE QUALITY
 
-APP URL:
+APP URL:https://selvaganapathy-k-wine-quality-prediction-app-86yntu.streamlit.app/
